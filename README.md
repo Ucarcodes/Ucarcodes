@@ -1,4 +1,4 @@
- ![Image](https://i.hizliresim.com/3zg4bv6.png)
+![Image](https://i.hizliresim.com/1ijmrgc.jpg)
 <h1 align="center">Hi 👋, I'm Mevlüt Uçar</h1>
 <h3 align="center">A passionate Unity Game Developer from Turkey</h3>
 
